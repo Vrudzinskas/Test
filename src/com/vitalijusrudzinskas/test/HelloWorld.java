@@ -6,5 +6,6 @@ public class HelloWorld
 	{
 		System.out.println("Spaghetti");
 		System.out.println("Bolognese");
+		System.out.println("Poxuj");
 	}
 }
